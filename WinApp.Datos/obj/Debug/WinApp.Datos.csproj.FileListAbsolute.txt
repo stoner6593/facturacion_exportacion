@@ -1,0 +1,105 @@
+C:\Users\Jose\OneDrive\Publiarte S.R.L\CPE\ProjectCPE\WinApp.Datos\bin\Debug\WinApp.Datos.dll.config
+C:\Users\Jose\OneDrive\Publiarte S.R.L\CPE\ProjectCPE\WinApp.Datos\bin\Debug\WinApp.Datos.dll
+C:\Users\Jose\OneDrive\Publiarte S.R.L\CPE\ProjectCPE\WinApp.Datos\bin\Debug\WinApp.Datos.pdb
+C:\Users\Jose\OneDrive\Publiarte S.R.L\CPE\ProjectCPE\WinApp.Datos\bin\Debug\EntityFramework.dll
+C:\Users\Jose\OneDrive\Publiarte S.R.L\CPE\ProjectCPE\WinApp.Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jose\OneDrive\Publiarte S.R.L\CPE\ProjectCPE\WinApp.Datos\bin\Debug\WinApp.Entidades.dll
+C:\Users\Jose\OneDrive\Publiarte S.R.L\CPE\ProjectCPE\WinApp.Datos\bin\Debug\WinApp.Entidades.pdb
+C:\Users\Jose\OneDrive\Publiarte S.R.L\CPE\ProjectCPE\WinApp.Datos\bin\Debug\EntityFramework.xml
+C:\Users\Jose\OneDrive\Publiarte S.R.L\CPE\ProjectCPE\WinApp.Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jose\OneDrive\Publiarte S.R.L\CPE\ProjectCPE\WinApp.Datos\obj\Debug\WinApp.Datos.csprojResolveAssemblyReference.cache
+C:\Users\Jose\OneDrive\Publiarte S.R.L\CPE\ProjectCPE\WinApp.Datos\obj\Debug\WinApp.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Jose\OneDrive\Publiarte S.R.L\CPE\ProjectCPE\WinApp.Datos\obj\Debug\WinApp.Datos.dll
+C:\Users\Jose\OneDrive\Publiarte S.R.L\CPE\ProjectCPE\WinApp.Datos\obj\Debug\WinApp.Datos.pdb
+C:\Users\Developer\OneDrive\Publiarte S.R.L\CPE\ProjectCPE\WinApp.Datos\bin\Debug\WinApp.Datos.dll.config
+C:\Users\Developer\OneDrive\Publiarte S.R.L\CPE\ProjectCPE\WinApp.Datos\bin\Debug\WinApp.Datos.dll
+C:\Users\Developer\OneDrive\Publiarte S.R.L\CPE\ProjectCPE\WinApp.Datos\bin\Debug\WinApp.Datos.pdb
+C:\Users\Developer\OneDrive\Publiarte S.R.L\CPE\ProjectCPE\WinApp.Datos\bin\Debug\EntityFramework.dll
+C:\Users\Developer\OneDrive\Publiarte S.R.L\CPE\ProjectCPE\WinApp.Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Developer\OneDrive\Publiarte S.R.L\CPE\ProjectCPE\WinApp.Datos\bin\Debug\WinApp.Entidades.dll
+C:\Users\Developer\OneDrive\Publiarte S.R.L\CPE\ProjectCPE\WinApp.Datos\bin\Debug\WinApp.Entidades.pdb
+C:\Users\Developer\OneDrive\Publiarte S.R.L\CPE\ProjectCPE\WinApp.Datos\bin\Debug\EntityFramework.xml
+C:\Users\Developer\OneDrive\Publiarte S.R.L\CPE\ProjectCPE\WinApp.Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Developer\OneDrive\Publiarte S.R.L\CPE\ProjectCPE\WinApp.Datos\obj\Debug\WinApp.Datos.csprojResolveAssemblyReference.cache
+C:\Users\Developer\OneDrive\Publiarte S.R.L\CPE\ProjectCPE\WinApp.Datos\obj\Debug\WinApp.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Developer\OneDrive\Publiarte S.R.L\CPE\ProjectCPE\WinApp.Datos\obj\Debug\WinApp.Datos.dll
+C:\Users\Developer\OneDrive\Publiarte S.R.L\CPE\ProjectCPE\WinApp.Datos\obj\Debug\WinApp.Datos.pdb
+C:\Users\ERWIN\Desktop\ProjectCPE\WinApp.Datos\bin\Debug\WinApp.Datos.dll.config
+C:\Users\ERWIN\Desktop\ProjectCPE\WinApp.Datos\bin\Debug\WinApp.Datos.dll
+C:\Users\ERWIN\Desktop\ProjectCPE\WinApp.Datos\bin\Debug\WinApp.Datos.pdb
+C:\Users\ERWIN\Desktop\ProjectCPE\WinApp.Datos\bin\Debug\EntityFramework.dll
+C:\Users\ERWIN\Desktop\ProjectCPE\WinApp.Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ERWIN\Desktop\ProjectCPE\WinApp.Datos\bin\Debug\WinApp.Entidades.dll
+C:\Users\ERWIN\Desktop\ProjectCPE\WinApp.Datos\bin\Debug\WinApp.Entidades.pdb
+C:\Users\ERWIN\Desktop\ProjectCPE\WinApp.Datos\bin\Debug\EntityFramework.xml
+C:\Users\ERWIN\Desktop\ProjectCPE\WinApp.Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ERWIN\Desktop\ProjectCPE\WinApp.Datos\obj\Debug\WinApp.Datos.csprojResolveAssemblyReference.cache
+C:\Users\ERWIN\Desktop\ProjectCPE\WinApp.Datos\obj\Debug\WinApp.Datos.dll
+C:\Users\ERWIN\Desktop\ProjectCPE\WinApp.Datos\obj\Debug\WinApp.Datos.pdb
+D:\ERWIN\FACTURACION COMPLETA ERWIN\FACTURACION XML 2.1\ProjectCPE\WinApp.Datos\bin\Debug\WinApp.Datos.dll.config
+D:\ERWIN\FACTURACION COMPLETA ERWIN\FACTURACION XML 2.1\ProjectCPE\WinApp.Datos\bin\Debug\WinApp.Datos.dll
+D:\ERWIN\FACTURACION COMPLETA ERWIN\FACTURACION XML 2.1\ProjectCPE\WinApp.Datos\bin\Debug\WinApp.Datos.pdb
+D:\ERWIN\FACTURACION COMPLETA ERWIN\FACTURACION XML 2.1\ProjectCPE\WinApp.Datos\bin\Debug\EntityFramework.dll
+D:\ERWIN\FACTURACION COMPLETA ERWIN\FACTURACION XML 2.1\ProjectCPE\WinApp.Datos\bin\Debug\EntityFramework.SqlServer.dll
+D:\ERWIN\FACTURACION COMPLETA ERWIN\FACTURACION XML 2.1\ProjectCPE\WinApp.Datos\bin\Debug\WinApp.Entidades.dll
+D:\ERWIN\FACTURACION COMPLETA ERWIN\FACTURACION XML 2.1\ProjectCPE\WinApp.Datos\bin\Debug\WinApp.Entidades.pdb
+D:\ERWIN\FACTURACION COMPLETA ERWIN\FACTURACION XML 2.1\ProjectCPE\WinApp.Datos\bin\Debug\EntityFramework.xml
+D:\ERWIN\FACTURACION COMPLETA ERWIN\FACTURACION XML 2.1\ProjectCPE\WinApp.Datos\bin\Debug\EntityFramework.SqlServer.xml
+D:\ERWIN\FACTURACION COMPLETA ERWIN\FACTURACION XML 2.1\ProjectCPE\WinApp.Datos\obj\Debug\WinApp.Datos.csprojResolveAssemblyReference.cache
+D:\ERWIN\FACTURACION COMPLETA ERWIN\FACTURACION XML 2.1\ProjectCPE\WinApp.Datos\obj\Debug\WinApp.Datos.csproj.CoreCompileInputs.cache
+D:\ERWIN\FACTURACION COMPLETA ERWIN\FACTURACION XML 2.1\ProjectCPE\WinApp.Datos\obj\Debug\WinApp.Datos.dll
+D:\ERWIN\FACTURACION COMPLETA ERWIN\FACTURACION XML 2.1\ProjectCPE\WinApp.Datos\obj\Debug\WinApp.Datos.pdb
+D:\ERWIN\FACTURACION COMPLETA ERWIN\Modulo Facturacion - Editado\ProjectCPE\WinApp.Datos\bin\Debug\WinApp.Datos.dll.config
+D:\ERWIN\FACTURACION COMPLETA ERWIN\Modulo Facturacion - Editado\ProjectCPE\WinApp.Datos\bin\Debug\WinApp.Datos.dll
+D:\ERWIN\FACTURACION COMPLETA ERWIN\Modulo Facturacion - Editado\ProjectCPE\WinApp.Datos\bin\Debug\WinApp.Datos.pdb
+D:\ERWIN\FACTURACION COMPLETA ERWIN\Modulo Facturacion - Editado\ProjectCPE\WinApp.Datos\bin\Debug\EntityFramework.dll
+D:\ERWIN\FACTURACION COMPLETA ERWIN\Modulo Facturacion - Editado\ProjectCPE\WinApp.Datos\bin\Debug\EntityFramework.SqlServer.dll
+D:\ERWIN\FACTURACION COMPLETA ERWIN\Modulo Facturacion - Editado\ProjectCPE\WinApp.Datos\bin\Debug\WinApp.Entidades.dll
+D:\ERWIN\FACTURACION COMPLETA ERWIN\Modulo Facturacion - Editado\ProjectCPE\WinApp.Datos\bin\Debug\WinApp.Entidades.pdb
+D:\ERWIN\FACTURACION COMPLETA ERWIN\Modulo Facturacion - Editado\ProjectCPE\WinApp.Datos\bin\Debug\EntityFramework.xml
+D:\ERWIN\FACTURACION COMPLETA ERWIN\Modulo Facturacion - Editado\ProjectCPE\WinApp.Datos\bin\Debug\EntityFramework.SqlServer.xml
+D:\ERWIN\FACTURACION COMPLETA ERWIN\Modulo Facturacion - Editado\ProjectCPE\WinApp.Datos\obj\Debug\WinApp.Datos.csprojResolveAssemblyReference.cache
+D:\ERWIN\FACTURACION COMPLETA ERWIN\Modulo Facturacion - Editado\ProjectCPE\WinApp.Datos\obj\Debug\WinApp.Datos.csproj.CoreCompileInputs.cache
+D:\ERWIN\FACTURACION COMPLETA ERWIN\Modulo Facturacion - Editado\ProjectCPE\WinApp.Datos\obj\Debug\WinApp.Datos.dll
+D:\ERWIN\FACTURACION COMPLETA ERWIN\Modulo Facturacion - Editado\ProjectCPE\WinApp.Datos\obj\Debug\WinApp.Datos.pdb
+D:\ERWIN\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\WinApp.Datos\bin\Debug\WinApp.Datos.dll.config
+D:\ERWIN\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\WinApp.Datos\bin\Debug\WinApp.Datos.dll
+D:\ERWIN\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\WinApp.Datos\bin\Debug\WinApp.Datos.pdb
+D:\ERWIN\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\WinApp.Datos\bin\Debug\EntityFramework.dll
+D:\ERWIN\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\WinApp.Datos\bin\Debug\EntityFramework.SqlServer.dll
+D:\ERWIN\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\WinApp.Datos\bin\Debug\WinApp.Entidades.dll
+D:\ERWIN\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\WinApp.Datos\bin\Debug\WinApp.Entidades.pdb
+D:\ERWIN\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\WinApp.Datos\bin\Debug\EntityFramework.xml
+D:\ERWIN\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\WinApp.Datos\bin\Debug\EntityFramework.SqlServer.xml
+D:\ERWIN\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\WinApp.Datos\obj\Debug\WinApp.Datos.csprojResolveAssemblyReference.cache
+D:\ERWIN\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\WinApp.Datos\obj\Debug\WinApp.Datos.csproj.CoreCompileInputs.cache
+D:\ERWIN\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\WinApp.Datos\obj\Debug\WinApp.Datos.dll
+D:\ERWIN\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\WinApp.Datos\obj\Debug\WinApp.Datos.pdb
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\WinApp.Datos\bin\Debug\WinApp.Datos.dll.config
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\WinApp.Datos\bin\Debug\WinApp.Datos.dll
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\WinApp.Datos\bin\Debug\WinApp.Datos.pdb
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\WinApp.Datos\bin\Debug\EntityFramework.dll
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\WinApp.Datos\bin\Debug\EntityFramework.SqlServer.dll
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\WinApp.Datos\bin\Debug\WinApp.Entidades.dll
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\WinApp.Datos\bin\Debug\WinApp.Entidades.pdb
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\WinApp.Datos\bin\Debug\EntityFramework.xml
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\WinApp.Datos\bin\Debug\EntityFramework.SqlServer.xml
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\WinApp.Datos\obj\Debug\WinApp.Datos.csprojAssemblyReference.cache
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\WinApp.Datos\obj\Debug\WinApp.Datos.csproj.CoreCompileInputs.cache
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\WinApp.Datos\obj\Debug\WinApp.Datos.csproj.CopyComplete
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\WinApp.Datos\obj\Debug\WinApp.Datos.dll
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\WinApp.Datos\obj\Debug\WinApp.Datos.pdb
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE-EXPORTACION\WinApp.Datos\bin\Debug\WinApp.Datos.dll.config
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE-EXPORTACION\WinApp.Datos\bin\Debug\WinApp.Datos.dll
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE-EXPORTACION\WinApp.Datos\bin\Debug\WinApp.Datos.pdb
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE-EXPORTACION\WinApp.Datos\bin\Debug\EntityFramework.dll
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE-EXPORTACION\WinApp.Datos\bin\Debug\EntityFramework.SqlServer.dll
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE-EXPORTACION\WinApp.Datos\bin\Debug\WinApp.Entidades.dll
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE-EXPORTACION\WinApp.Datos\bin\Debug\WinApp.Entidades.pdb
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE-EXPORTACION\WinApp.Datos\bin\Debug\EntityFramework.xml
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE-EXPORTACION\WinApp.Datos\bin\Debug\EntityFramework.SqlServer.xml
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE-EXPORTACION\WinApp.Datos\obj\Debug\WinApp.Datos.csprojAssemblyReference.cache
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE-EXPORTACION\WinApp.Datos\obj\Debug\WinApp.Datos.csproj.CoreCompileInputs.cache
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE-EXPORTACION\WinApp.Datos\obj\Debug\WinApp.Datos.csproj.CopyComplete
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE-EXPORTACION\WinApp.Datos\obj\Debug\WinApp.Datos.dll
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE-EXPORTACION\WinApp.Datos\obj\Debug\WinApp.Datos.pdb

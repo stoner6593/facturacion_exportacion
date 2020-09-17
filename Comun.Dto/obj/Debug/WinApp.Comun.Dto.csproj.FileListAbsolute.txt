@@ -1,0 +1,101 @@
+C:\Users\Developer\OneDrive\Publiarte S.R.L\CPE\ProjectCPE\Comun.Dto\bin\Debug\WinApp.Comun.Dto.dll
+C:\Users\Developer\OneDrive\Publiarte S.R.L\CPE\ProjectCPE\Comun.Dto\bin\Debug\WinApp.Comun.Dto.pdb
+C:\Users\Developer\OneDrive\Publiarte S.R.L\CPE\ProjectCPE\Comun.Dto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Developer\OneDrive\Publiarte S.R.L\CPE\ProjectCPE\Comun.Dto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Developer\OneDrive\Publiarte S.R.L\CPE\ProjectCPE\Comun.Dto\obj\Debug\WinApp.Comun.Dto.csproj.CoreCompileInputs.cache
+C:\Users\Developer\OneDrive\Publiarte S.R.L\CPE\ProjectCPE\Comun.Dto\obj\Debug\WinApp.Comun.Dto.dll
+C:\Users\Developer\OneDrive\Publiarte S.R.L\CPE\ProjectCPE\Comun.Dto\obj\Debug\WinApp.Comun.Dto.pdb
+C:\Users\Jose\OneDrive\Publiarte S.R.L\CPE\ProjectCPE\Comun.Dto\bin\Debug\WinApp.Comun.Dto.dll
+C:\Users\Jose\OneDrive\Publiarte S.R.L\CPE\ProjectCPE\Comun.Dto\bin\Debug\WinApp.Comun.Dto.pdb
+C:\Users\Jose\OneDrive\Publiarte S.R.L\CPE\ProjectCPE\Comun.Dto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jose\OneDrive\Publiarte S.R.L\CPE\ProjectCPE\Comun.Dto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jose\OneDrive\Publiarte S.R.L\CPE\ProjectCPE\Comun.Dto\obj\Debug\WinApp.Comun.Dto.csprojResolveAssemblyReference.cache
+C:\Users\Jose\OneDrive\Publiarte S.R.L\CPE\ProjectCPE\Comun.Dto\obj\Debug\WinApp.Comun.Dto.csproj.CoreCompileInputs.cache
+C:\Users\Jose\OneDrive\Publiarte S.R.L\CPE\ProjectCPE\Comun.Dto\obj\Debug\WinApp.Comun.Dto.dll
+C:\Users\Jose\OneDrive\Publiarte S.R.L\CPE\ProjectCPE\Comun.Dto\obj\Debug\WinApp.Comun.Dto.pdb
+C:\Users\Developer\OneDrive\Publiarte S.R.L\CPE\ProjectCPE\Comun.Dto\obj\Debug\WinApp.Comun.Dto.csprojResolveAssemblyReference.cache
+C:\Users\ERWIN\Desktop\ProjectCPE\Comun.Dto\bin\Debug\WinApp.Comun.Dto.dll
+C:\Users\ERWIN\Desktop\ProjectCPE\Comun.Dto\bin\Debug\WinApp.Comun.Dto.pdb
+C:\Users\ERWIN\Desktop\ProjectCPE\Comun.Dto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ERWIN\Desktop\ProjectCPE\Comun.Dto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ERWIN\Desktop\ProjectCPE\Comun.Dto\obj\Debug\WinApp.Comun.Dto.csprojResolveAssemblyReference.cache
+C:\Users\ERWIN\Desktop\ProjectCPE\Comun.Dto\obj\Debug\WinApp.Comun.Dto.dll
+C:\Users\ERWIN\Desktop\ProjectCPE\Comun.Dto\obj\Debug\WinApp.Comun.Dto.pdb
+D:\ERWIN\FACTURACION COMPLETA ERWIN\FACTURACION XML 2.1\ProjectCPE\Comun.Dto\bin\Debug\WinApp.Comun.Dto.dll
+D:\ERWIN\FACTURACION COMPLETA ERWIN\FACTURACION XML 2.1\ProjectCPE\Comun.Dto\bin\Debug\WinApp.Comun.Dto.pdb
+D:\ERWIN\FACTURACION COMPLETA ERWIN\FACTURACION XML 2.1\ProjectCPE\Comun.Dto\bin\Debug\Newtonsoft.Json.dll
+D:\ERWIN\FACTURACION COMPLETA ERWIN\FACTURACION XML 2.1\ProjectCPE\Comun.Dto\bin\Debug\Newtonsoft.Json.xml
+D:\ERWIN\FACTURACION COMPLETA ERWIN\FACTURACION XML 2.1\ProjectCPE\Comun.Dto\obj\Debug\WinApp.Comun.Dto.csprojResolveAssemblyReference.cache
+D:\ERWIN\FACTURACION COMPLETA ERWIN\FACTURACION XML 2.1\ProjectCPE\Comun.Dto\obj\Debug\WinApp.Comun.Dto.csproj.CoreCompileInputs.cache
+D:\ERWIN\FACTURACION COMPLETA ERWIN\FACTURACION XML 2.1\ProjectCPE\Comun.Dto\obj\Debug\WinApp.Comun.Dto.dll
+D:\ERWIN\FACTURACION COMPLETA ERWIN\FACTURACION XML 2.1\ProjectCPE\Comun.Dto\obj\Debug\WinApp.Comun.Dto.pdb
+D:\ERWIN\FACTURACION COMPLETA ERWIN\Modulo Facturacion - Editado\ProjectCPE\Comun.Dto\bin\Debug\WinApp.Comun.Dto.dll
+D:\ERWIN\FACTURACION COMPLETA ERWIN\Modulo Facturacion - Editado\ProjectCPE\Comun.Dto\bin\Debug\WinApp.Comun.Dto.pdb
+D:\ERWIN\FACTURACION COMPLETA ERWIN\Modulo Facturacion - Editado\ProjectCPE\Comun.Dto\bin\Debug\Newtonsoft.Json.dll
+D:\ERWIN\FACTURACION COMPLETA ERWIN\Modulo Facturacion - Editado\ProjectCPE\Comun.Dto\bin\Debug\Newtonsoft.Json.xml
+D:\ERWIN\FACTURACION COMPLETA ERWIN\Modulo Facturacion - Editado\ProjectCPE\Comun.Dto\obj\Debug\WinApp.Comun.Dto.csprojResolveAssemblyReference.cache
+D:\ERWIN\FACTURACION COMPLETA ERWIN\Modulo Facturacion - Editado\ProjectCPE\Comun.Dto\obj\Debug\WinApp.Comun.Dto.csproj.CoreCompileInputs.cache
+D:\ERWIN\FACTURACION COMPLETA ERWIN\Modulo Facturacion - Editado\ProjectCPE\Comun.Dto\obj\Debug\WinApp.Comun.Dto.dll
+D:\ERWIN\FACTURACION COMPLETA ERWIN\Modulo Facturacion - Editado\ProjectCPE\Comun.Dto\obj\Debug\WinApp.Comun.Dto.pdb
+D:\ERWIN\FACTURACION COMPLETA ERWIN\Modulo Facturacion - Editado\ProjectCPE\Comun.Dto\bin\Debug\FinalXML.exe
+D:\ERWIN\FACTURACION COMPLETA ERWIN\Modulo Facturacion - Editado\ProjectCPE\Comun.Dto\bin\Debug\DevComponents.DotNetBar2.dll
+D:\ERWIN\FACTURACION COMPLETA ERWIN\Modulo Facturacion - Editado\ProjectCPE\Comun.Dto\bin\Debug\MySql.Data.dll
+D:\ERWIN\FACTURACION COMPLETA ERWIN\Modulo Facturacion - Editado\ProjectCPE\Comun.Dto\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\ERWIN\FACTURACION COMPLETA ERWIN\Modulo Facturacion - Editado\ProjectCPE\Comun.Dto\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\ERWIN\FACTURACION COMPLETA ERWIN\Modulo Facturacion - Editado\ProjectCPE\Comun.Dto\bin\Debug\FinalXML.pdb
+D:\ERWIN\FACTURACION COMPLETA ERWIN\Modulo Facturacion - Editado\ProjectCPE\Comun.Dto\bin\Debug\DevComponents.DotNetBar2.xml
+D:\ERWIN\FACTURACION COMPLETA ERWIN\Modulo Facturacion - Editado\ProjectCPE\Comun.Dto\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ERWIN\FACTURACION COMPLETA ERWIN\Modulo Facturacion - Editado\ProjectCPE\Comun.Dto\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\ERWIN\FACTURACION COMPLETA ERWIN\Modulo Facturacion - Editado\ProjectCPE\Comun.Dto\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\ERWIN\FACTURACION COMPLETA ERWIN\Modulo Facturacion - Editado\ProjectCPE\Comun.Dto\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\ERWIN\FACTURACION COMPLETA ERWIN\Modulo Facturacion - Editado\ProjectCPE\Comun.Dto\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\ERWIN\FACTURACION COMPLETA ERWIN\Modulo Facturacion - Editado\ProjectCPE\Comun.Dto\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\ERWIN\FACTURACION COMPLETA ERWIN\Modulo Facturacion - Editado\ProjectCPE\Comun.Dto\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\ERWIN\FACTURACION COMPLETA ERWIN\Modulo Facturacion - Editado\ProjectCPE\Comun.Dto\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\ERWIN\FACTURACION COMPLETA ERWIN\Modulo Facturacion - Editado\ProjectCPE\Comun.Dto\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\ERWIN\FACTURACION COMPLETA ERWIN\Modulo Facturacion - Editado\ProjectCPE\Comun.Dto\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\ERWIN\FACTURACION COMPLETA ERWIN\Modulo Facturacion - Editado\ProjectCPE\Comun.Dto\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\ERWIN\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\Comun.Dto\bin\Debug\WinApp.Comun.Dto.dll
+D:\ERWIN\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\Comun.Dto\bin\Debug\WinApp.Comun.Dto.pdb
+D:\ERWIN\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\Comun.Dto\bin\Debug\Newtonsoft.Json.dll
+D:\ERWIN\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\Comun.Dto\bin\Debug\Newtonsoft.Json.xml
+D:\ERWIN\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\Comun.Dto\obj\Debug\WinApp.Comun.Dto.csprojResolveAssemblyReference.cache
+D:\ERWIN\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\Comun.Dto\obj\Debug\WinApp.Comun.Dto.csproj.CoreCompileInputs.cache
+D:\ERWIN\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\Comun.Dto\obj\Debug\WinApp.Comun.Dto.dll
+D:\ERWIN\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\Comun.Dto\obj\Debug\WinApp.Comun.Dto.pdb
+D:\ERWIN\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\Comun.Dto\bin\Debug\FinalXML.exe
+D:\ERWIN\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\Comun.Dto\bin\Debug\DevComponents.DotNetBar2.dll
+D:\ERWIN\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\Comun.Dto\bin\Debug\MySql.Data.dll
+D:\ERWIN\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\Comun.Dto\bin\Debug\FinalXML.pdb
+D:\ERWIN\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\Comun.Dto\bin\Debug\FinalXML.exe.config
+D:\ERWIN\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\Comun.Dto\bin\Debug\DevComponents.DotNetBar2.xml
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\Comun.Dto\bin\Debug\WinApp.Comun.Dto.dll
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\Comun.Dto\bin\Debug\WinApp.Comun.Dto.pdb
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\Comun.Dto\bin\Debug\FinalXML.exe
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\Comun.Dto\bin\Debug\Newtonsoft.Json.dll
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\Comun.Dto\bin\Debug\DevComponents.DotNetBar2.dll
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\Comun.Dto\bin\Debug\MySql.Data.dll
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\Comun.Dto\bin\Debug\FinalXML.pdb
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\Comun.Dto\bin\Debug\FinalXML.exe.config
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\Comun.Dto\bin\Debug\Newtonsoft.Json.xml
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\Comun.Dto\bin\Debug\DevComponents.DotNetBar2.xml
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\Comun.Dto\obj\Debug\WinApp.Comun.Dto.csprojAssemblyReference.cache
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\Comun.Dto\obj\Debug\WinApp.Comun.Dto.csproj.CoreCompileInputs.cache
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\Comun.Dto\obj\Debug\WinApp.Comun.Dto.csproj.CopyComplete
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\Comun.Dto\obj\Debug\WinApp.Comun.Dto.dll
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE\Comun.Dto\obj\Debug\WinApp.Comun.Dto.pdb
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE-EXPORTACION\Comun.Dto\bin\Debug\WinApp.Comun.Dto.dll
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE-EXPORTACION\Comun.Dto\bin\Debug\WinApp.Comun.Dto.pdb
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE-EXPORTACION\Comun.Dto\bin\Debug\FinalXML.exe
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE-EXPORTACION\Comun.Dto\bin\Debug\Newtonsoft.Json.dll
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE-EXPORTACION\Comun.Dto\bin\Debug\DevComponents.DotNetBar2.dll
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE-EXPORTACION\Comun.Dto\bin\Debug\MySql.Data.dll
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE-EXPORTACION\Comun.Dto\bin\Debug\FinalXML.pdb
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE-EXPORTACION\Comun.Dto\bin\Debug\FinalXML.exe.config
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE-EXPORTACION\Comun.Dto\bin\Debug\Newtonsoft.Json.xml
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE-EXPORTACION\Comun.Dto\bin\Debug\DevComponents.DotNetBar2.xml
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE-EXPORTACION\Comun.Dto\obj\Debug\WinApp.Comun.Dto.csproj.CoreCompileInputs.cache
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE-EXPORTACION\Comun.Dto\obj\Debug\WinApp.Comun.Dto.csproj.CopyComplete
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE-EXPORTACION\Comun.Dto\obj\Debug\WinApp.Comun.Dto.dll
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE-EXPORTACION\Comun.Dto\obj\Debug\WinApp.Comun.Dto.pdb
+E:\ERWIN\PROYECTOS\FACTURACION COMPLETA ERWIN\BETA2.1\ProjectCPE-EXPORTACION\Comun.Dto\obj\Debug\WinApp.Comun.Dto.csprojAssemblyReference.cache
